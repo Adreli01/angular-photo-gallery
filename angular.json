@@ -23,7 +23,8 @@
               "src/favicon.ico",
               "src/assets"
             ],
-            "styles": [
+            "styles": [              
+              "node_modules/bootswatch/dist/materia/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
